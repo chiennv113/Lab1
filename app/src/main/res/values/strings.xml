@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Asyntask</string>
+    <string name="b1">Bai 1</string>
+    <string name="b2">Bai 2</string>
+    <string name="b3">Bai 3</string>
+    <string name="b4">Bai 4</string>
+    <string name="TitleB1">Thread trong Android</string>
+    <string name="mesB1">Message</string>
+    <string name="btnLoadB1">Load Image</string>
+    <string name="TitleB2">Handler in Android</string>
+    <string name="TitleB3">Load image from sever using asynctask</string>
+    <string name="TitleB4">Sleep time in Seconds: </string>
+    <string name="btnRun">Run AsyncTask</string>
+    <string name="tvResult">Result</string>
+</resources>
